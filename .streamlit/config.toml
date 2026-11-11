@@ -1,0 +1,13 @@
+[server]
+address = "localhost"
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#ff4d1c"

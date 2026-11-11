@@ -1,0 +1,8 @@
+# Private: your key and your system prompt never go to GitHub
+.env
+sys_prompt.txt
+
+.venv/
+__pycache__/
+.DS_Store
+.claude/
